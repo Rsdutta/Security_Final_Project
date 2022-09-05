@@ -3,8 +3,11 @@
 Code usage instructions
 
 `-ip` flag to specify specify ip of plug
+
 `-s` flag to scan network for possible buld ip's
+
 `-c` flag to specify commands from command list (use -h for full list)
+
 `-t` flag for toggling for specific duration and intervals
 
 example commands
